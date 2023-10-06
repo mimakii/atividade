@@ -1,24 +1,39 @@
 html{
-    background-color: #000;
+    background-color: white;
 }
 
 * {
-    color: white;
+    color: black;
 }
 
 .a {
     border: 2px solid#ff0000;
-    width: ;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px auto;
 }
 
 .b {
-    border: 2px solid#fff;
+    border: 2px solid #00BFFF;
+    width: 150px;
+    height: 75px;
+    margin: 10px auto;
+    padding: 15px;
 }
 
 .c {
-    border: 2px solid#ff2;
+    border: 2px solid#7FFFD4;
+    width: 250px;
+    height: 120px;
+    margin: 10px auto;
+    padding: 20px;
 }
 
 .d {
     border: 2px solid#f2f;
+    width: 180px;
+    height: 90px;
+    padding: 25px;
+    margin: 10px auto;
 }
